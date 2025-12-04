@@ -17,7 +17,7 @@ Router(config)# int gig 0/0/0
 
 Router(config - if)# ip access-group 102 in
 
-EXIT
+Exit
 
 Router# config terminal
 
